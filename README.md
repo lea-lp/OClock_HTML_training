@@ -13,5 +13,5 @@ Les CDN utilisés :
 
 ## Rendu
 
-![homepage_perso](https://github.com/lea-lp/OClock_HTML_training/blob/master/images/rendu_final.png)
+![homepage_perso](https://github.com/lea-lp/OClock_HTML_training/blob/master/images/rendu_finaal.png)
 
