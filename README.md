@@ -7,5 +7,11 @@ Les CDN utilisés :
 * Google Fonts : https://fonts.googleapis.com/css?family=Montserrat:400,800
 * Font Awesome : https://use.fontawesome.com/releases/v5.8.1/css/all.css
 
+## Base 
 
+![homepage_oclock](https://github.com/lea-lp/OClock_HTML_training/blob/master/images/site_base.png)
+
+## Rendu
+
+![homepage_perso](https://github.com/lea-lp/OClock_HTML_training/blob/master/images/rendu_2.png)
 
