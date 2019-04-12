@@ -1,0 +1,81 @@
+body {
+	background: #0AC3A7;
+	margin: 5em 15em 5em 15em;
+	font-family: 'Montserrat', sans-serif;
+	text-align: center;
+}
+
+h1 {
+	color: #FFFCD8;
+	font-size: 5em;
+}
+
+p {
+	margin: 2em 0;
+	color: #FFFCD8;
+	font-size: 1.2em;
+	line-height: 2em;
+}
+
+.small-text {
+	font-size: 0.8em;
+}
+
+.small-title {
+	font-weight: bolder
+}
+
+.row {
+    margin-top: 30px;   
+}
+.round {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background-color: #222;    
+    color: #FFF;
+    text-align: center;  
+}
+.round.hollow {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    background-color: #FFF;    
+    color: #222;
+    text-align: center;
+    -webkit-box-shadow: 0px 0px 0px 3px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 0px 3px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 0px 3px rgba(0,0,0,0.75);
+}
+
+.round.round-lg {
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
+    -moz-border-radius: 20px;
+    border-radius: 50%;
+    font-size: 1.5em;
+}
+
+
+.round.green {
+    background-color: #2CB095;
+}
+
+.round.hollow.green {
+    color: #2CB095;
+    background-color: #2CB095;    
+    -webkit-box-shadow: 0px 0px 0px 3px #2CB095;
+    -moz-box-shadow: 0px 0px 0px 3px #2CB095;
+    box-shadow: 0px 0px 0px 3px #2CB095;
+}
+
+.text-white {
+	color: #FFFCD8 !important;
+}
